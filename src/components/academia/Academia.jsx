@@ -3,7 +3,7 @@ import "./academia.scss"
 export default function Academia()
 {
     return (
-        <div className="academia">
+        <div className="academia" id="academia">
 
         </div>
     );
