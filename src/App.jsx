@@ -4,6 +4,7 @@ import Academia from "./components/academia/Academia";
 import Projects from "./components/projects/Projects";
 import WorkEx from "./components/workex/WorkEx";
 import Contact from "./components/contact/Contact";
+import "./app.scss";
 
 function App() {
   return (
